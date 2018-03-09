@@ -1,5 +1,7 @@
 # Pragmatism and gflags
 
+`09/03/2018`
+
 My first exposure to Google's `gflags` (C++) library happened a few months ago,
 a couple weeks after starting my current job. I was working on a tool that
 captured core dumps, parsed the stack traces into a friendlier format, and
